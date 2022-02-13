@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.MiApp{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.MiSideBar{
+width: 15%;
+}
+.MiTopBar{
+  width: 100%;
+}
+.MiContentWrapper{
+  width: 100%;
+}
+.MiDivTC{
+  width: 85%;
+}
